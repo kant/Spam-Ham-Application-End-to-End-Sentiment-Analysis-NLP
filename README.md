@@ -8,9 +8,9 @@ Project Overview
 
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn, nltk.
 
-Data Gathering: • Dataset by UCI Machine Learing on Kaggle: https://www.kaggle.com/uciml/sms-spam-collection-dataset
+Data Gathering: • Dataset by UCI Machine Learning on Kaggle: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
-Data Preporcessing:
+Data Preprocessing:
 
 Exploratory Data Analysis (EDA) • Exploring NaN values in dataset • Plotted countplot for SMS labels Spam vs. Ham
 
@@ -20,6 +20,6 @@ Data Cleaning
 
 Model Building and Evaluation • Multinomial Naive Bayes • Decision Tree • Random Forest
 
-Model Deployment • AWS EC2 Instance ubutu - using Putty, PuttyZen, Winsip.
+Model Deployment • AWS EC2 Instance ubuntu - using Putty, PuttyZen, Winsip.
 
 • Web App Link: https://emailapplicationnlp.herokuapp.com/
